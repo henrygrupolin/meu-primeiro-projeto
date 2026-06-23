@@ -1,13 +1,13 @@
 # Meu Projeto
 
-Bem vindo ao meu primeiro repositorio no GitHub!
+Bem-vindo ao meu primeiro repositório no GitHub!
 
 ## Como usar
 
-1. Clone o repositorio
-2. Instale as dependencias
+1. Clone o repositório
+2. Instale as dependências
 3. Rode o projeto
 
 ## Contribuindo
 
-Sinta-se a vontade para abrir issues e pull requests.
+Sinta-se à vontade para abrir issues e pull requests.
